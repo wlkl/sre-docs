@@ -1,0 +1,5 @@
+site_name: "SRE Docs"
+nav:
+  - Главная: index.md
+  - Docs:
+    - Приложение выдает ошибки, растет время ответа: runbook.md
